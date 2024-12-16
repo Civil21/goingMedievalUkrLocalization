@@ -1,0 +1,11 @@
+{
+    "id": "kayamaria.ukr_localization_mod",
+    "name": "Ukrainian Localization | Українська локалізація | Ukr | Укр",
+    "description": "Перекладом займався чат Gpt, всі неточності на його совісті. Якщо хтось хоче використати цей переклад як основу для власної локалізації, можете вільно його використовувати.",
+    "author": "KayaMaria",
+    "modVersion": "0.2",
+    "gameVersion": "0.21.11",
+    "tags": [
+        "Localization"
+    ]
+}
